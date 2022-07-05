@@ -1,0 +1,2 @@
+class TaskDraft < ApplicationRecord
+end
